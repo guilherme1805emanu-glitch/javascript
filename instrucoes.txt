@@ -1,0 +1,11 @@
+COMMON JS:
+node -v (para ver se esta baixado, ver a versão);
+node .\server.js (para criar ou subir a aplicação);
+ctrl+c (para parar a aplicaão);
+
+MODULES JS:
+npm -v (para ver se esta baixado, ver a versão);
+npm init (para criar o arquivo package.json);
+colocar no arquivo package.json o "start": "node common.js/server.js", caso não tenha;
+npm start (para iniciar a aplicação).
+
