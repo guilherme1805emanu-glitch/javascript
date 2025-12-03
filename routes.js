@@ -1,3 +1,5 @@
+const header = { "content-type": "text/plain; charset=utf-8" };
+
 
 export function inicialRoute(response) { 
     response.writeHead(200, header);
